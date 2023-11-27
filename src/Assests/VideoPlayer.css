@@ -1,0 +1,12 @@
+/* VideoPlayer.css */
+
+.video-player {
+    margin-right: 850px;
+  }
+  
+  .video-iframe {
+    width: 600px;
+    height: 600px;
+    margin-left:425px;
+  }
+  

@@ -1,0 +1,39 @@
+/* AppLayout.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-image: none;
+    position:absolute
+  }
+  
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh; /* Set full height of the viewport */
+  }
+  
+  .app-header {
+    background-color: #333;
+    color: white;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  .app-footer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #333;
+    color: white;
+    padding: 10px;
+  }
+  
+  .app-content {
+    flex-grow: 1; /* Allows the content to grow and take remaining space */
+    padding: 20px;
+  }
+  
+  /* Add any additional styling based on your design preferences */
+  

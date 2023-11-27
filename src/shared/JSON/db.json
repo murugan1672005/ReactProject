@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "username": "John",
+      "email": "john@gmail.com",
+      "password": "John@123",
+      "id": 1
+    },
+    {
+      "username": "Willaim",
+      "email": "willaim@gmail.com",
+      "password": "William@123",
+      "id": 2
+    },
+    {
+      "username": "727722eucs191@s",
+      "email": "727722eucs191@skcet.ac.in",
+      "password": "12345678",
+      "id": 3
+    },
+    {
+      "username": "thirumurugan",
+      "email": "727722eucs191@skcet.ac.in",
+      "password": "123456789",
+      "id": 4
+    },
+    {
+      "username": "thirumurugan",
+      "email": "22cse187@skcet.ac.in",
+      "password": "subash",
+      "id": 5
+    },
+    {
+      "username": "vinayverma",
+      "email": "vinayvarma@gmail.com",
+      "password": "12345678",
+      "id": 6
+    }
+  ]
+}
